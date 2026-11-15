@@ -1,0 +1,1 @@
+{ "wx_account": "your_wechat_id", "wx_root": "C:\\\\Users\\\\<user>\\\\Documents\\\\xwechat_files\\\\wxid_your_account", "target_username": "wxid_target_account", "target_name": "目标联系人备注", "ocr_marker": "目标联系人备注", "bot_prefixes": ["[AI]", "[AI回复]"], "cloud_api_key": "" }

@@ -1,0 +1,1 @@
+{ "poll_interval": 1.5, "wx_root": "C:\\\\Users\\\\<user>\\\\Documents\\\\xwechat_files\\\\wxid_your_account", "wechat_self_name": "你的微信昵称", "whitelist": { "会话ID或备注前8位": "备注" }, "llm_enabled": true, "llm_model": "qwen3:8b", "cloud_api_key": "" }
